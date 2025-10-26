@@ -7,8 +7,10 @@ const Footer = () => {
       <div className='container mx-auto flex flex-col md:flex-row justify-between items-start'>
         <div className='w-full md:w-1/3 mb-8 md:mb-0'>
             <img src={assets.logo_dark} alt="" />
-            <p className='text-gray-400 mt-4'>state is your trusted partner in finding, buying, and investing in premium properties.
-              Our mission is to make real estate simple, transparent, and accessible for everyone.</p>
+            <p className='text-gray-400 mt-4'>
+              Estate is your trusted partner in finding, buying, and investing in premium properties.
+              Our mission is to make real estate simple, transparent, and accessible for everyone.
+            </p>
         </div>
         <div className='w-full md:w-1/5 mb-8 md:mb-0'>
             <h3 className='text-white text-lg font-bold mb-4'>Company</h3>

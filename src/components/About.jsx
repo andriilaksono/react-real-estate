@@ -27,7 +27,8 @@ const About = () => {
               <p>Ongoing Projects</p>
             </div>
           </div>
-          <p className='my-10 max-w-lg'>We are a team of real estate professionals dedicated to providing modern, high-quality properties that match today’s lifestyle.
+          <p className='my-10 max-w-lg'>
+            We are a team of real estate professionals dedicated to providing modern, high-quality properties that match today’s lifestyle.
             With years of experience, we focus on innovation, comfort, and value — helping our clients find the perfect place to call home.</p>
           <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn More</button>
         </div>
